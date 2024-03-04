@@ -13,3 +13,8 @@
 
 ### 📖 Info
 - You can play this game here : https://trinket.io/python/b067525c81
+
+---
+
+### ⚠️ Disclaimer
+- This code does not belong to me. I have taken a Python class which provided the code via https://www.create-learn.us/
